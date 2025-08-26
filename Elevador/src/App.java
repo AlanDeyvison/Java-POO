@@ -5,7 +5,6 @@ public class App {
         Elevador elevador = new Elevador();
         Scanner respostas = new Scanner(System.in);
         
-       
         do{
 
             elevador.status();
